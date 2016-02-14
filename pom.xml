@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.walkmod</groupId>
 	<artifactId>model-checker</artifactId>
-	<version>1.0</version>
+	<version>1.1</version>
 	<description>Walkmod library to apply constraints to the AST</description>
 	<url>https://github.com/rpau/javalang</url>
 	<licenses>
